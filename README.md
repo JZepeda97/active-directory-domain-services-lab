@@ -93,7 +93,7 @@ Configured:
 - Global Catalog  
 - DSRM password (for recovery mode)
 
-![Step 8 Domain Controller Options](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/8.png?raw=true)
+![Step 8 Domain Controller Options](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/images/8.png?raw=true)
 
 ---
 
