@@ -25,8 +25,7 @@ This project demonstrates how I installed and configured Active Directory Domain
 
 # 📌 **AD DS Installation Steps (With Screenshot Placeholders)**
 
-Below are the steps *you performed*, rewritten to be clear and professional.  
-Replace each `IMAGE_HERE` with your screenshot link later.
+
 
 ---
 
