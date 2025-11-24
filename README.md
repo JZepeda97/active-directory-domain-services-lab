@@ -112,6 +112,12 @@ Reviewed the final configuration before installation and promotion began.
 
 ---
 
+### **🔟 Step 11 — Domain Creation Verification**
+Opened **Active Directory Users and Computers (ADUC)** to confirm that the domain **jzdomain.local** was successfully created.  
+The default containers (Builtin, Computers, Domain Controllers, Users, etc.) confirm the domain and directory structure are active.
+
+![Step 11 Review]([uploads/20777d73-2c6e-4314-b795-ba25b6421bc4.png](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/11.png?raw=true))
+
 # 📚 What I Learned
 This lab helped me understand:
 - How Active Directory is installed  
