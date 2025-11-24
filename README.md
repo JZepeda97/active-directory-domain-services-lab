@@ -32,7 +32,7 @@ This project demonstrates how I installed and configured Active Directory Domain
 ### **1️⃣ Step 1 — Add Roles and Features**
 Opened **Server Manager** and clicked **Add Roles and Features** to begin the AD DS installation process.
 
-![Step 1 Add Roles and Features](IMAGE_HERE)
+![Step 1 Add Roles and Features](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/1.png?raw=true)
 
 ---
 
@@ -40,14 +40,14 @@ Opened **Server Manager** and clicked **Add Roles and Features** to begin the AD
 Selected **Role-based or feature-based installation**.  
 This tells Windows you are adding a server role directly to this machine (not remote or multi-server deployment).
 
-![Step 2 Installation Type](IMAGE_HERE)
+![Step 2 Installation Type](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/2.png?raw=true)
 
 ---
 
 ### **3️⃣ Step 3 — Server Selection**
 Confirmed that the local server was selected as the installation target.
 
-![Step 3 Server Selection](IMAGE_HERE)
+![Step 3 Server Selection](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/3.png?raw=true)
 
 ---
 
@@ -58,14 +58,14 @@ This installs the services required for:
 - Group Policy  
 - domain management  
 
-![Step 4 Server Roles](IMAGE_HERE)
+![Step 4 Server Roles](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/4.png?raw=true)
 
 ---
 
 ### **5️⃣ Step 5 — Confirmation**
 Reviewed the selected options and started installation of the AD DS binaries.
 
-![Step 5 Confirmation](IMAGE_HERE)
+![Step 5 Confirmation](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/5.png?raw=true)
 
 ---
 
@@ -73,7 +73,7 @@ Reviewed the selected options and started installation of the AD DS binaries.
 After installation, selected **Promote this server to a domain controller**.  
 This makes the server the authority for authentication, domain logins, and Group Policy.
 
-![Step 6 Promote](IMAGE_HERE)
+![Step 6 Promote](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/6.png?raw=true)
 
 ---
 
@@ -82,7 +82,7 @@ Chose **Add a new forest** and created a new domain:
 
 **jzdomain.local**
 
-![Step 7 Deployment Configuration](IMAGE_HERE)
+![Step 7 Deployment Configuration](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/7.png?raw=true)
 
 ---
 
@@ -93,7 +93,7 @@ Configured:
 - Global Catalog  
 - DSRM password (for recovery mode)
 
-![Step 8 Domain Controller Options](IMAGE_HERE)
+![Step 8 Domain Controller Options](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/8.png?raw=true)
 
 ---
 
@@ -101,14 +101,14 @@ Configured:
 Verified the NetBIOS name matched the domain prefix.  
 This ensures compatibility with older tools that rely on short naming.
 
-![Step 9 NetBIOS](IMAGE_HERE)
+![Step 9 NetBIOS](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/9.png?raw=true)
 
 ---
 
 ### **🔟 Step 10 — Review Options**
 Reviewed the final configuration before installation and promotion began.
 
-![Step 10 Review](IMAGE_HERE)
+![Step 10 Review](https://github.com/JZepeda97/active-directory-domain-services-lab/blob/main/10.png?raw=true)
 
 ---
 
