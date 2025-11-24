@@ -29,6 +29,13 @@ This project demonstrates how I installed and configured Active Directory Domain
 
 ---
 
+### **1️⃣ Step 1 — Add Roles and Features**
+Opened **Server Manager** and clicked **Add Roles and Features** to begin the AD DS installation process.
+
+![Step 1 Add Roles and Features](IMAGE_HERE)
+
+---
+
 ### **2️⃣ Step 2 — Installation Type**
 Selected **Role-based or feature-based installation**.  
 This tells Windows you are adding a server role directly to this machine (not remote or multi-server deployment).
